@@ -15,6 +15,7 @@ __pycache__
 lightning_logs
 wandb
 *.net
+**/catboost_info
 
 # datasets
 *.zip
